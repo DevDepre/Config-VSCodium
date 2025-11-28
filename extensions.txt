@@ -1,0 +1,4 @@
+castrogusttavo.min-theme
+castrogusttavo.symbols
+esbenp.prettier-vscode
+oderwat.indent-rainbow
