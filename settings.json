@@ -14,9 +14,9 @@
     "editor.scrollbar.vertical": "hidden",
     "editor.scrollbar.horizontal": "hidden",
     "workbench.statusBar.visible": false,
-    "window.menuBarVisibility": "compact",
     "window.commandCenter": false,
     "workbench.layoutControl.enabled": false,
+    "window.menuBarVisibility": "compact",
 
     //Theme Config
     "workbench.colorTheme": "Min Dark",
@@ -43,6 +43,8 @@
         "rgba(255,255,255,0.1)",
         "rgba(255,255,255,0.1)",
         "rgba(255,255,255,0.1)"
-    ]
-}
+    ],
 
+    //Color Highlight Config
+    "color-highlight.markRuler": false
+}

@@ -1,4 +1,16 @@
+adpyke.codesnap
+bradlc.vscode-tailwindcss
 castrogusttavo.min-theme
 castrogusttavo.symbols
 esbenp.prettier-vscode
+fhswno.lucide-icons-lookup
+glenn2223.live-sass
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-python-envs
+naumovs.color-highlight
 oderwat.indent-rainbow
+ritwickdey.liveserver
+streetsidesoftware.code-spell-checker
+syler.sass-indented
+usernamehw.errorlens
